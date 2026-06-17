@@ -4,7 +4,7 @@ const button = document.getElementById("new-quote-btn");
 
 async function loadQuote() {
     const response = await fetch(
-        "http://127.0.0.1:3000/"
+        "https://pfruetq8s6ck4w53822xa3fk.hosting.codeyourfuture.io"
     );
 
     const data = await response.json();
