@@ -1,0 +1,17 @@
+body {
+    font-family: Arial, sans-serif;
+    max-width: 600px;
+    margin: 50px auto;
+    text-align: center;
+}
+
+blockquote {
+    font-size: 1.5rem;
+    font-style: italic;
+}
+
+button {
+    padding: 10px 20px;
+    cursor: pointer;
+}
+
